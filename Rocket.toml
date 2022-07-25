@@ -1,0 +1,15 @@
+[global]
+port = 8888
+workers = 16
+log_level = "debug"
+
+[development]
+address = "127.0.0.1"
+port = 7000
+workers = 16
+log_level = "debug"
+
+[production]
+address = "127.0.0.1"
+port = 80
+workers = 128

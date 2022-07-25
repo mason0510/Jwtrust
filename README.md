@@ -20,6 +20,11 @@ token必须放在auth里不能放在header里赋值
 ##测试用例
 test.rs
 
+##测试接口
+http://127.0.0.1:8888/jwt/get
+http://127.0.0.1:8888/jwt/val
+
+
 ##相关
 https://blog.csdn.net/qq_42970717/article/details/122961694
 https://icode.best/i/99011745485102

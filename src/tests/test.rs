@@ -1,4 +1,3 @@
-use serde::{Serialize, Deserialize};
 #[derive(Serialize, Deserialize, Debug)]
 struct ServerConfig {
     workers: u64,

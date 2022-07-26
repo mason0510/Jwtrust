@@ -33,3 +33,6 @@ https://users.rust-lang.org/t/how-to-fix-doesnt-implement-std-debug/70834/4
 ##y运行
 cargo run 
 rm cargo.lock
+
+##crate原文地址
+https://learnku.com/articles/31161
